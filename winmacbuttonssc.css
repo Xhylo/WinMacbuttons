@@ -1,4 +1,4 @@
-.winButton-3UMjdg:nth-child(2) {
+.winButton__88672:nth-child(2) {
     color: rgb(114, 47, 47);
     border-radius: 2000px;
     background-color:rgb(114, 47, 47);
@@ -8,7 +8,7 @@
     margin-right: 8px;
     margin-left: 10px;
 }
-.winButtonMinMax-3RsPUg:nth-child(4):hover {
+.winButtonMinMax__72f36:nth-child(4):hover {
     color: green;
     border-radius: 2000px;
     background-color:rgb(55, 212, 55);
@@ -18,7 +18,7 @@
     margin-right: -2px;
     margin-left: 10px;
 }
-.winButtonMinMax-3RsPUg:nth-child(3):hover {
+.winButtonMinMax__72f36:nth-child(3):hover {
     color:rgb(141, 92, 0);
     border-radius: 200px;
     background-color:rgb(255, 184, 53);
@@ -28,7 +28,7 @@
     margin-right: -2px;
     margin-left: 10px;
 }
-.winButton-3UMjdg:nth-child(2):hover {
+.winButton__88672:nth-child(2):hover {
     color: rgb(110, 0, 0);
     border-radius: 50%;
     background-color:rgb(255, 70, 70);
@@ -38,7 +38,7 @@
     margin-right: 8px;
     margin-left: 10px;
 }
-.winButtonMinMax-3RsPUg:nth-child(4) {
+.winButtonMinMax__72f36:nth-child(4) {
     color:rgb(47, 124, 47);
     border-radius: 200px;
     background-color:rgb(47, 124, 47);
@@ -48,7 +48,7 @@
     margin-right: -2px;
     margin-left: 10px;
 }
-.winButtonMinMax-3RsPUg:nth-child(3) {
+.winButtonMinMax__72f36:nth-child(3) {
     color:rgb(141, 92, 0);
     border-radius: 200px;
     background-color:rgb(141, 92, 0);
@@ -58,7 +58,7 @@
     margin-right: -2px;
     margin-left: 10px;
 }
-.winButton-3UMjdg {
+.winButton__88672 {
     color: #ff5b5b;
     transition: all 200ms ease-out;
     height: 15px;
@@ -67,7 +67,7 @@
     margin-right: -2px;
     margin-left: 10px;
 }
-.winButton-3UMjdg:hover {
+.winButton__88672:hover {
     background: transparent;
     transform: rotate(45deg);
     border-radius: 30px;
